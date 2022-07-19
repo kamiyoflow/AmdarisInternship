@@ -6,7 +6,7 @@ public class Class1
 	{
 		static void Main(string[] args)
           {
-			Console.Writeline("Hi!");
+			Console.Writeline("Hiiiii!");
           }
 	}
 }
